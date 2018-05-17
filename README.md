@@ -1,2 +1,5 @@
 # JsUnpacker
-JS unpacker
+
+Decoder for Dean Edwards' JavaScript Packer
+
+
